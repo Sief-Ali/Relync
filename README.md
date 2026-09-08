@@ -34,3 +34,9 @@ All technical specs, decision logs (ADRs), milestone tracking, and architecture 
 ## 📄 License
 
 This project is licensed under the **GNU Affero General Public License v3.0 (AGPLv3)**. See the [LICENSE](./LICENSE) file for details.
+
+---
+
+### ✏️ Note
+
+| **Relync** is a blend of "Relay" and "Sync." 
