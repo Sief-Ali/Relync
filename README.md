@@ -4,7 +4,7 @@
 
 > A lean, high-reliability realtime communication system engineered with clear architectural boundaries.
 
-Relync is a secure, developer-focused chat platform built from the ground up to demonstrate production-grade backend architecture, strict realtime delivery guarantees, clean authorization models, and efficient client caching.
+Relync is a secure,  chat platform built from the ground up to demonstrate production-grade backend architecture, strict realtime delivery guarantees, clean authorization models, and efficient client caching.
 
 ---
 
