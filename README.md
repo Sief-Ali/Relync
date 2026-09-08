@@ -27,7 +27,7 @@ Relync is modularized across dedicated repositories to support multi-platform cl
 
 All technical specs, decision logs (ADRs), milestone tracking, and architecture documentation live right here in this primary repository.
 
-* See our **[GitHub Project Board](https://github.com/users/Sief-Ali/projects)** for active milestone progress.
+* See our **[GitHub Project Board](https://github.com/users/Sief-Ali/projects/1)** for active milestone progress.
 
 ---
 
