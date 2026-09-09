@@ -33,7 +33,10 @@ All technical specs, decision logs (ADRs), milestone tracking, and architecture 
 
 ## 📄 License
 
-This project is licensed under the **GNU Affero General Public License v3.0 (AGPLv3)**. See the [LICENSE](./LICENSE) file for details.
+This project is currently under active pre-release development.
+* **Free for developers, hobbyists, self-hosters, and open-source contributors.**
+* **Commercial and business use is strictly prohibited** until official `V1.0` release.
+* See [LICENSE](./LICENSE) for details.
 
 ---
 
