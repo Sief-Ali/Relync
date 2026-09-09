@@ -1,5 +1,3 @@
-[![AGPL-3.0 license badge](https://licenses.opensource.ngo/badges/AGPL-3.0-for-the-badge.svg)](https://licenses.opensource.ngo/docs/public-licenses/AGPL-3.0)
-
 # Relync
 
 > A lean, high-reliability realtime communication system engineered with clear architectural boundaries.
